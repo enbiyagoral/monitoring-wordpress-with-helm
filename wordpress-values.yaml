@@ -1,0 +1,8 @@
+wordpressUsername: enbiyagoral
+wordpressPassword: password
+wordpressEmail: contact@enbiyagoral.com
+wordpressFirstName: enbiya
+wordpressLastName: goral
+wordpressBlogName: enbiyagoral.com
+service: 
+  type: LoadBalancer
